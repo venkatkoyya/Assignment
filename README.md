@@ -1,7 +1,8 @@
 # Assignment
 
 #Project structure 
-![Uploading Screenshot 2022-02-27 at 20.15.28.png…]()
+<img width="380" alt="Screenshot 2022-02-27 at 20 15 28" src="https://user-images.githubusercontent.com/89602943/155898326-a4eb2963-8a1a-4a8a-8b25-96a5892e1617.png">
+
 
 
 ## Concepts Included
@@ -53,6 +54,11 @@ Reports for each module are written into their respective `/target` directories 
 target/cucumber-reports/advanced-reports
 
 target/cucumber-reports/CucumberTestReport.json
-![Uploading Screenshot 2022-02-27 at 20.16.35.png…]()
+
+
+
+<img width="357" alt="Screenshot 2022-02-27 at 20 16 35" src="https://user-images.githubusercontent.com/89602943/155898353-b247e7f4-ada8-40d0-8f68-53fca0834463.png">
+
+
 
 
