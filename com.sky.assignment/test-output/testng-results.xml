@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33794" started-at="2022-02-27T19:22:48Z" finished-at="2022-02-27T19:23:22Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="CucumberRunner.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.sky.assignment.qa.runner.CucumberRunner@22635ba0]" name="feature" class="com.sky.assignment.qa.runner.CucumberRunner"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="33794" started-at="2022-02-27T19:22:48Z" finished-at="2022-02-27T19:23:22Z">
+      <class name="com.sky.assignment.qa.runner.CucumberRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.sky.assignment.qa.runner.CucumberRunner@22635ba0]" name="setUpClass" is-config="true" duration-ms="151" started-at="2022-02-27T19:22:48Z" finished-at="2022-02-27T19:22:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.sky.assignment.qa.runner.CucumberRunner@22635ba0]" name="feature" duration-ms="10577" started-at="2022-02-27T19:22:49Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2022-02-27T19:22:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[This feature will make the search show the results that are determined by editorial, as well as generic searches.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.sky.assignment.qa.runner.CucumberRunner@22635ba0]" name="feature" duration-ms="7031" started-at="2022-02-27T19:22:59Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2022-02-27T19:23:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[This feature will make sure that the shop page is navigable and usable.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.sky.assignment.qa.runner.CucumberRunner@22635ba0]" name="feature" duration-ms="7867" started-at="2022-02-27T19:23:06Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2022-02-27T19:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[This feature will make sure that the shop page is navigable and usable.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.sky.assignment.qa.runner.CucumberRunner@22635ba0]" name="feature" duration-ms="8097" started-at="2022-02-27T19:23:14Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2022-02-27T19:23:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[This feature will make sure that the shop page is navigable and usable.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.sky.assignment.qa.runner.CucumberRunner@22635ba0]" name="tearDownClass" is-config="true" duration-ms="7" started-at="2022-02-27T19:23:22Z" finished-at="2022-02-27T19:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.sky.assignment.qa.runner.CucumberRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
